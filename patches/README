@@ -1,0 +1,5 @@
+This is patch directory
+
+cd WORKING_DIR
+sh device/vernee/apollo_lite/patches/install.sh
+sh device/vernee/apollo_lite/patches/uninstall.sh
